@@ -1,0 +1,17 @@
+# Sample config placeholder. Real parameters to be filled during implementation phase.
+# file_path: path/to/input.xlsx
+# sheet: Data
+# x_column: Displacement
+# y_columns: [Type A, Type B]
+# chart:
+#   type: scatter
+#   line_width: 3
+#   font_family: Arial
+#   font_size: 32
+#   palette: default10
+#   origin_lock: true
+# output:
+#   target_sheet: Charts
+#   anchor_cell: B2
+#   overwrite_chart_name: AutoChart1
+#   export_image: false
